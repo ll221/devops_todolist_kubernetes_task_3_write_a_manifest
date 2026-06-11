@@ -9,7 +9,7 @@ metadata:
 spec:
   containers:
     - name: todoapp
-      image: igorrrrrrrrr/tooapp:3.0.0
+      image: igorrrrrrrr/todoapp:3.0.0
       imagePullPolicy: IfNotPresent
       ports:
         - name: http
